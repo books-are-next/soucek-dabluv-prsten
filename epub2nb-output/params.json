@@ -1,6 +1,8 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Ďáblův prsten",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ludvík Souček",
@@ -8,7 +10,7 @@
       "modified": "2020-06-18T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -17,12 +19,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP-dopis-bez1radku",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "MLP-dopis-bez1radku--I",
+      "figure": "MLP-obrazky",
+      "em": "MLP-dopis-bez1radku--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-dopis--I\nMLP-dopis-podpis--I\n",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP-znak-tucne-11b ",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +32,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "dabluv_prsten_001.md",
             "xhtml": "dabluv_prsten_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "dabluv_prsten_002.md",
@@ -48,32 +52,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "dabluv_prsten_003.md",
             "xhtml": "dabluv_prsten_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "dabluv_prsten_004.md",
             "xhtml": "dabluv_prsten_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "dabluv_prsten_005.md",
@@ -84,18 +91,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Ďáblův prsten"
           },
           {
             "filename": "dabluv_prsten_006.md",
             "xhtml": "dabluv_prsten_006.xhtml",
             "id": 5,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -211,6 +221,6 @@
       "user": "books-are-next",
       "repo": "soucek-dabluv-prsten"
     },
-    "generatedAt": 1648802309927
+    "generatedAt": 1648803107363
   }
 }

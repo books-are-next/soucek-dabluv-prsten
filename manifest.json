@@ -1,0 +1,88 @@
+{
+  "author": "Ludvík Souček",
+  "contenttype": "prose",
+  "identifier": "soucek-dabluv-prsten-4841881",
+  "languagecode": "cs",
+  "modified": "2020-06-18T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Ďáblův prsten",
+  "revision": "4841881",
+  "generatedAt": {
+    "date": "Fri Apr 01 2022 08:52:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648803160955
+  },
+  "documents": [
+    {
+      "title": "Ďáblův prsten",
+      "file": "dabluv_prsten_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "dabluv_prsten_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ďáblův prsten",
+      "file": "dabluv_prsten_005.html",
+      "words": 14055,
+      "chars": 87562,
+      "ideas": 362,
+      "role": "chapter",
+      "order": 1,
+      "prev": "dabluv_prsten_002.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Ďáblův prsten",
+      "file": "colophon.html",
+      "words": 141,
+      "chars": 922,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "dabluv_prsten_005.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 14200,
+      "chars": 88510,
+      "ideas": 385
+    },
+    "chapters": {
+      "words": 14055,
+      "chars": 87562,
+      "ideas": 362
+    }
+  }
+}
