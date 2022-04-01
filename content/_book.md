@@ -2,24 +2,27 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Ďáblův prsten
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Ludvík Souček
   publisher: Městská knihovna v Praze
   modified: '2020-06-18T00:00:00.000Z'
 readingOrder:
-  - dabluv_prsten_001.html
   - dabluv_prsten_002.html
-  - dabluv_prsten_003.html
-  - dabluv_prsten_004.html
   - dabluv_prsten_005.html
-  - dabluv_prsten_006.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: dabluv_prsten_005.html
+        title: Ďáblův prsten
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

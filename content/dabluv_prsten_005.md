@@ -1,4 +1,5 @@
 ---
+hiddenTitle: true
 contentType: prose
 ---
 
@@ -518,37 +519,37 @@ První byl adresován do Alžírska, Jirkovi Smolákovi. Pracuje tam jako geolog
 
 > _Milý Jirko,_
 
-vůbec jsem se nezbláznil ani jsem nepověsil hvězdářství na hřebíček, a přesto mne zajímá jeden zeměpisný detail. Dej pozor: někde jižně od Tademaitské vysočiny, možná v Tingheru, je uprostřed pouštní pahorkatiny kruhový útvar, uzavřený ze všech stran hradbou černých skal. Prý se lesknou jako mramor. Kotlina – ták nějak to tam vypadá – je několik kilometrů široká, dno má pokryté pískem. Nic víc nevím. A co horšího, nevím ani, co to chci vlastně vědět – zajímá mne všechno, co se týká této kotliny, zejména zda tam bylo nalezeno něco zajímavého nebo mimořádného. Nezlob se na mne a hodně brzy odepiš, ať už se něco dozvíš nebo ne.
+_vůbec jsem se nezbláznil ani jsem nepověsil hvězdářství na hřebíček, a přesto mne zajímá jeden zeměpisný detail. Dej pozor: někde jižně od Tademaitské vysočiny, možná v Tingheru, je uprostřed pouštní pahorkatiny kruhový útvar, uzavřený ze všech stran hradbou černých skal. Prý se lesknou jako mramor. Kotlina – ták nějak to tam vypadá – je několik kilometrů široká, dno má pokryté pískem. Nic víc nevím. A co horšího, nevím ani, co to chci vlastně vědět – zajímá mne všechno, co se týká této kotliny, zejména zda tam bylo nalezeno něco zajímavého nebo mimořádného. Nezlob se na mne a hodně brzy odepiš, ať už se něco dozvíš nebo ne._
 
 _Zdraví Tě tvůj_
 
-Ludvík
+_Ludvík_
 
 Druhý dopis putoval do slavného pařížského Muzea vzduchoplavby, a to rovnou k samotnému řediteli.
 
 > _Monsieur le directeur,_
 
-prosím vás o obzvláštní laskavost. Byl bych Vám neobyčejně zavázán za sdělení odpovědi na tři otázky, pro něž bych jen stěží nalezl význačnějšího odborníka nežli Vás, slovutný pane řediteli.
+_prosím vás o obzvláštní laskavost. Byl bych Vám neobyčejně zavázán za sdělení odpovědi na tři otázky, pro něž bych jen stěží nalezl význačnějšího odborníka nežli Vás, slovutný pane řediteli._
 
-Otázka prvá: byl v době obléhání Paříže pruským vojskem vypuštěn balón jménem „General Trochu“, a byl-li, co je o jeho osudu známo?
+_Otázka prvá: byl v době obléhání Paříže pruským vojskem vypuštěn balón jménem „General Trochu“, a byl-li, co je o jeho osudu známo?_
 
-Otázka druhá: doletěl některý balón z obléhané Paříže do Afriky, který a kam?
+_Otázka druhá: doletěl některý balón z obléhané Paříže do Afriky, který a kam?_
 
-Otázka třetí: zachovaly se písemnosti umožňující zjistit, zda v době francouzsko-pruského konfliktu, případně i později, sloužil v balónovém oddílu na Severním nádraží voják jménem François Maret? Co je o něm známo? Kdo byl velitelem oddílu?
+_Otázka třetí: zachovaly se písemnosti umožňující zjistit, zda v době francouzsko-pruského konfliktu, případně i později, sloužil v balónovém oddílu na Severním nádraží voják jménem François Maret? Co je o něm známo? Kdo byl velitelem oddílu?_
 
-Veuillez agrér, Monsieur, l’assurance de mes sentiments distinguées
+_Veuillez agrér, Monsieur, l’assurance de mes sentiments distinguées_
 
-dr. Ludvík Souček
+_dr. Ludvík Souček_
 
 Třetí, poslední a nejstručnější dopis byl adresován asistentu Kadeřábkovi, mé pravé ruce a spolupracovníku.
 
 > _Milý Kadeřábku,_
 
-zjistěte, prosím Vás, zda nebylo pozorováno včera v noci nebo časně ráno na obloze něco mimořádného – neidentifikované těleso, zvlášť veliký meteor nebo podobně. Spojte se s hvězdárnami a s amatérskými kroužky. Máte u mne veliký polárkový dort.
+_zjistěte, prosím Vás, zda nebylo pozorováno včera v noci nebo časně ráno na obloze něco mimořádného – neidentifikované těleso, zvlášť veliký meteor nebo podobně. Spojte se s hvězdárnami a s amatérskými kroužky. Máte u mne veliký polárkový dort._
 
 _Zdraví Vás_
 
-Souček
+_Souček_
 
 Pak jsem se konečně s klidným svědomím zase dal do „Nových pohledů na otázku měsíčních kráterů“.
 
@@ -574,23 +575,23 @@ Shodou okolností mi hned druhý den přišel dopis z Paříže. Vrhl jsem se n
 
 > _Cher Monsieur,_
 
-je mi potěšením odpovědět Vám na otázky z Vašeho dopisu.
+_je mi potěšením odpovědět Vám na otázky z Vašeho dopisu._
 
-Tedy:
+_Tedy:_
 
-1\. Balón jménem „Generál Trochu“ nebyl za obléhání Paříže pruskými vojsky vypuštěn. Ze služební knihy balónového oddílu vyplývá, že toto jméno mělo být skutečně jednomu z přístrojů přiděleno, nedošlo však k tomu. Proč, není známo.
+_1\. Balón jménem „Generál Trochu“ nebyl za obléhání Paříže pruskými vojsky vypuštěn. Ze služební knihy balónového oddílu vyplývá, že toto jméno mělo být skutečně jednomu z přístrojů přiděleno, nedošlo však k tomu. Proč, není známo._
 
-2\. Vaše otázka o doletu některého z balónů do Afriky je velmi pozoruhodná. Ihned vysvětlím proč.
+_2\. Vaše otázka o doletu některého z balónů do Afriky je velmi pozoruhodná. Ihned vysvětlím proč._
 
-Nemáme důvodu se domnívat, že některý z balónů v Africe přistál. Místa přistání nebo ztroskotání všech 65 vypuštěných přístrojů jsou známá, s výjimkou balónu „Richard Wallace“; ten utonul i s posádkou v Atlantiku. Jistotu, kterou jsme až donedávna v této otázce měli, zviklal nález trosek balónu poblíže osady Katéletu (nedaleko oázy Abergimoud) při východních alžírských hranicích. Hlídka meharistů – jezdců na velbloudech – dopravila totiž do rukou místních úřadů část obalu a lanoví balónu, který byl našimi odborníky poznán jako výrobek továrny Yon, pracující za obléhání Paříže pro francouzské ozbrojené síly. Tím není ovšem dokázáno, že by šlo o jeden z těchto balónů, přesto je zde však otazník, o jehož vyřešení sami usilujeme. Je-li vám něco známo, co by mohlo pozoruhodný nález v Katéletu objasnit, budu Vám neobyčejně zavázán za zprávu.
+_Nemáme důvodu se domnívat, že některý z balónů v Africe přistál. Místa přistání nebo ztroskotání všech 65 vypuštěných přístrojů jsou známá, s výjimkou balónu „Richard Wallace“; ten utonul i s posádkou v Atlantiku. Jistotu, kterou jsme až donedávna v této otázce měli, zviklal nález trosek balónu poblíže osady Katéletu (nedaleko oázy Abergimoud) při východních alžírských hranicích. Hlídka meharistů – jezdců na velbloudech – dopravila totiž do rukou místních úřadů část obalu a lanoví balónu, který byl našimi odborníky poznán jako výrobek továrny Yon, pracující za obléhání Paříže pro francouzské ozbrojené síly. Tím není ovšem dokázáno, že by šlo o jeden z těchto balónů, přesto je zde však otazník, o jehož vyřešení sami usilujeme. Je-li vám něco známo, co by mohlo pozoruhodný nález v Katéletu objasnit, budu Vám neobyčejně zavázán za zprávu._
 
-3\. Voják jménem François Maret skutečně sloužil v balónovém oddílu, jehož velitelem byl důstojník Národní gardy Félix Tournachon, jak vyplývá z kmenové knihy útvaru. Narodil se roku 1851, dosáhl hodnosti desátníka, nebyl vyznamenán ani zraněn. Je důvodné podezření, že se zúčastnil pouličních bojů na straně tzv. Komuny a že při nich zahynul. Od konce května 1871 byl nezvěstný, počátkem roku 1872 byl vyškrtnut ze seznamu útvaru.
+_3\. Voják jménem François Maret skutečně sloužil v balónovém oddílu, jehož velitelem byl důstojník Národní gardy Félix Tournachon, jak vyplývá z kmenové knihy útvaru. Narodil se roku 1851, dosáhl hodnosti desátníka, nebyl vyznamenán ani zraněn. Je důvodné podezření, že se zúčastnil pouličních bojů na straně tzv. Komuny a že při nich zahynul. Od konce května 1871 byl nezvěstný, počátkem roku 1872 byl vyškrtnut ze seznamu útvaru._
 
-Lituji, že Vám nemohu napsat více. Přeji Vám hodně zdaru a co největší úspěchy.
+_Lituji, že Vám nemohu napsat více. Přeji Vám hodně zdaru a co největší úspěchy._
 
-Receivez, Monsieur, l´assurance de mes sentiments distinguées.
+_Receivez, Monsieur, l´assurance de mes sentiments distinguées._
 
-Paul Descamp, directeur
+_Paul Descamp, directeur_
 
 Vyskočil jsem od psacího stolu ke knihovně a vytáhl největší zeměpisný atlas, který jsem tam nalezl. Kátelet, Kátelet – ano, souhlasí! Leží právě v prodlouženém směru předpokládaného letu balónu, asi 600 kilometrů jihovýchodně od srdce Tinghertské pouště. Je to hodně – ale balón zbavený zátěže a možná i koše může takovou vzdálenost překonat.
 
@@ -598,21 +599,21 @@ Na dopis od Jirky Smoláka jsem čekal velmi dlouho. Kaštany před oknem našeh
 
 > _Milý Ludvo!_
 
-Tvůj dopis mě honil po celém Alžírsku. Napřed mne minul u Sot-el-Džeridu, pak mne nezastihl v Adraru, nedostal se ke mně v Akabli – ale nakonec měl přece jen štěstí. Dostihl mne v Tahoulahounu (to je jméno, co?) a co bys řekl, v místě, ležícím docela blízko krajiny, na kterou se vyptáváš!
+_Tvůj dopis mě honil po celém Alžírsku. Napřed mne minul u Sot-el-Džeridu, pak mne nezastihl v Adraru, nedostal se ke mně v Akabli – ale nakonec měl přece jen štěstí. Dostihl mne v Tahoulahounu (to je jméno, co?) a co bys řekl, v místě, ležícím docela blízko krajiny, na kterou se vyptáváš!_
 
-Poslyš, Ludvo, nelži a nevymýšlej si! Přiznej se, že chceš psát strašidelné romány – já to na Tebe neprozradím! Ďáblův prsten – tak se totiž jmenuje kotlina, kterou jsi popsal (mýlka není možná) je místo s nejhorší pověstí v celém Ahaggaru. A to je co říci! Místní kmeny, Ihogarrenové, Imededrenové, Uadelenové, Kel-Geresenové – zkrátka všichni zdejší potomci hrdých vládců pouště, Tuaregů, kladou zrovna sem timsitanelakhart čili peklo, i s jeho odpovědným vedoucím Luciferem, kterému tady pro změnu říkají Iblis. A ty mi budeš vykládat, že ty nic, ty muzikant! Prosím Tě!
+_Poslyš, Ludvo, nelži a nevymýšlej si! Přiznej se, že chceš psát strašidelné romány – já to na Tebe neprozradím! Ďáblův prsten – tak se totiž jmenuje kotlina, kterou jsi popsal (mýlka není možná) je místo s nejhorší pověstí v celém Ahaggaru. A to je co říci! Místní kmeny, Ihogarrenové, Imededrenové, Uadelenové, Kel-Geresenové – zkrátka všichni zdejší potomci hrdých vládců pouště, Tuaregů, kladou zrovna sem timsitanelakhart čili peklo, i s jeho odpovědným vedoucím Luciferem, kterému tady pro změnu říkají Iblis. A ty mi budeš vykládat, že ty nic, ty muzikant! Prosím Tě!_
 
-Ďáblův prsten byl donedávna jakýmsi, řekněme, pólem nepřístupnosti celé Sahary vůbec a Ahaggarské plošiny obzvláště. Je sem hrozně špatný přístup, bez vody, sypkým pískem a hlavně přes zrádná solná jezera, hrozící pohltit každý kamión. Domorodci při tom zásadně odmítají doprovod, a to i ti nejstatečnější. V širokém okruhu kolem Ďáblova prstenu jsou skály popsány nápisy v tifinaru, domorodém písmu, varujícími poutníky a náhodné cestovatele, aby se nepřibližovali. Jsou tu i prastaré kresby, někde dokonce celé skalní obrazárny, kde se vždy znovu opakuje motiv podivných obrovských postav, jež Tuaregové zřejmě vydávají za Iblisy. Jestli Tě to zajímá, podívej se do knihy Henri Lhote: Objevy v Tasíli – je jich tam několik, navlas podobných. Tasíli je ostatně kousek na východ od Ďáblova prstenu – sotva dvě stě kilometrů. To je na Alžírsko opravdu jen skok.
+_Ďáblův prsten byl donedávna jakýmsi, řekněme, pólem nepřístupnosti celé Sahary vůbec a Ahaggarské plošiny obzvláště. Je sem hrozně špatný přístup, bez vody, sypkým pískem a hlavně přes zrádná solná jezera, hrozící pohltit každý kamión. Domorodci při tom zásadně odmítají doprovod, a to i ti nejstatečnější. V širokém okruhu kolem Ďáblova prstenu jsou skály popsány nápisy v tifinaru, domorodém písmu, varujícími poutníky a náhodné cestovatele, aby se nepřibližovali. Jsou tu i prastaré kresby, někde dokonce celé skalní obrazárny, kde se vždy znovu opakuje motiv podivných obrovských postav, jež Tuaregové zřejmě vydávají za Iblisy. Jestli Tě to zajímá, podívej se do knihy Henri Lhote: Objevy v Tasíli – je jich tam několik, navlas podobných. Tasíli je ostatně kousek na východ od Ďáblova prstenu – sotva dvě stě kilometrů. To je na Alžírsko opravdu jen skok._
 
-Naše skupina geologického průzkumu má k dispozici malý vrtulník a díky němu jsme se mohli podívat i do samého nitra Ďáblova prstenu, ačkoli nás jinak velmi rozumní alžírští soudruzi všemožně zrazovali. Neletěl jsem tam ovšem jen kvůli Tobě, tak domýšlivý zase nebuď! Skály kolem Prstenu jsou z olivínového čediče (a ze žádného mramoru, ty geologický barbare!) a ten může občas znamenat, že je nablízku nafta. V tomto případě to naneštěstí neznamenal. Jen při jižním okraji skal objevil můj pomocník pár kousků roztaveného písku – tzv. li­byjské sklo – které, jak jistě jako hvězdář víš, vzniká pravděpodobně při dopadu meteorů. To není na Sahaře nijak zvlášť veliká vzácnost.
+_Naše skupina geologického průzkumu má k dispozici malý vrtulník a díky němu jsme se mohli podívat i do samého nitra Ďáblova prstenu, ačkoli nás jinak velmi rozumní alžírští soudruzi všemožně zrazovali. Neletěl jsem tam ovšem jen kvůli Tobě, tak domýšlivý zase nebuď! Skály kolem Prstenu jsou z olivínového čediče (a ze žádného mramoru, ty geologický barbare!) a ten může občas znamenat, že je nablízku nafta. V tomto případě to naneštěstí neznamenal. Jen při jižním okraji skal objevil můj pomocník pár kousků roztaveného písku – tzv. li­byjské sklo – které, jak jistě jako hvězdář víš, vzniká pravděpodobně při dopadu meteorů. To není na Sahaře nijak zvlášť veliká vzácnost._
 
-Vyber si z toho, co chceš. Až se dáš na spisovatelství a napíšeš strašidelnou povídku, určitě mi nezapomeň jeden exemplář věnovat.
+_Vyber si z toho, co chceš. Až se dáš na spisovatelství a napíšeš strašidelnou povídku, určitě mi nezapomeň jeden exemplář věnovat._
 
-Buď zdráv a pozor na Iblise!
+_Buď zdráv a pozor na Iblise!_
 
 _Tvůj_
 
-Jirka
+_Jirka_
 
 Poslední dokument mi přinesl těsně před Vánocemi Kadeřábek, už dokonale vyléčený z rýmy a ostatních „polárkových“ neduhů.
 
@@ -624,7 +625,9 @@ Poslední dokument mi přinesl těsně před Vánocemi Kadeřábek, už dokonale
 
 Položil mi na stůl článeček, vlastně jen sloupek vytržený ze špatně tištěných novin. Drobným písmem tam bylo – samozřejmě německy – doslova:
 
-LÉTAJÍCÍ TALÍŘE ZNOVU NA OBZORU?
+  
+
+**LÉTAJÍCÍ TALÍŘE ZNOVU NA OBZORU?**
 
 > _Dne 4. července letošního roku bylo hlášeno několika vesničany na Státní hvězdárnu v Mohuči, že v časných hodinách ranních prolétl nad rýnským údolím ve směru Wiesbaden létající kotouč. Vesničané, vesměs hudebníci vracející se z taneční zábavy kolem čtvrté hodiny ranní, shodně potvrdili, že kotouč letěl bez jakéhokoli hluku, byl ocelově šedý a na obvodu blýskal několika světly. Velikost nedovedou odhadnout. Žádáme o další údaje od našich čtenářů, o nichž neopomeneme přinést zprávu v některém z nejbližších čísel. Sledujte náš časopis!_
 
