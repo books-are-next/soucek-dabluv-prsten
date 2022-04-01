@@ -1,0 +1,216 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Ďáblův prsten",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ludvík Souček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-06-18T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "dabluv_prsten_001.md",
+            "xhtml": "dabluv_prsten_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dabluv_prsten_002.md",
+            "xhtml": "dabluv_prsten_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dabluv_prsten_003.md",
+            "xhtml": "dabluv_prsten_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dabluv_prsten_004.md",
+            "xhtml": "dabluv_prsten_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dabluv_prsten_005.md",
+            "xhtml": "dabluv_prsten_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "dabluv_prsten_006.md",
+            "xhtml": "dabluv_prsten_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Ďáblův prsten",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ludvík Souček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-06-18T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dabluv_prsten_001.md",
+        "xhtml": "dabluv_prsten_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dabluv_prsten_002.md",
+        "xhtml": "dabluv_prsten_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dabluv_prsten_003.md",
+        "xhtml": "dabluv_prsten_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dabluv_prsten_004.md",
+        "xhtml": "dabluv_prsten_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dabluv_prsten_005.md",
+        "xhtml": "dabluv_prsten_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "dabluv_prsten_006.md",
+        "xhtml": "dabluv_prsten_006.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/dabluv_prs_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_dabluv_prsten_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis--I",
+      "MLP-dopis-bez1radku",
+      "MLP-dopis-bez1radku--I",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-uprostred--I",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-znak-kurziva-11b",
+      "MLP-znak-tucne-11b",
+      "Normal",
+      "char-style-override-2",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-3",
+      "para-style-override-4",
+      "para-style-override-5"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "soucek-dabluv-prsten"
+    },
+    "generatedAt": 1648802309927
+  }
+}

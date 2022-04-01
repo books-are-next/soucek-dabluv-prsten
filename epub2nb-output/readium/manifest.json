@@ -1,0 +1,74 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Ďáblův prsten",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ludvík Souček",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2020-06-18T00:00:00.000Z",
+    "published": "2020-06-18T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dabluv_prsten_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dabluv_prsten_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dabluv_prsten_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dabluv_prsten_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dabluv_prsten_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/dabluv_prsten_006.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/dabluv_prs_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_dabluv_prsten_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Začátek",
+      "href": "OEBPS/Text/dabluv_prsten_001.xhtml"
+    }
+  ]
+}
