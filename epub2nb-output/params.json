@@ -7,12 +7,14 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ludvík Souček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-06-18T00:00:00.000Z"
+      "modified": "2020-06-18T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -21,7 +23,7 @@
       "br": "",
       "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP-dopis-bez1radku",
       "brAfter": "",
-      "blockquote": "MLP-dopis-bez1radku--I",
+      "blockquote": "",
       "figure": "MLP-obrazky",
       "em": "MLP-dopis-bez1radku--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-dopis--I\nMLP-dopis-podpis--I\n",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP-znak-tucne-11b ",
@@ -92,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Ďáblův prsten"
+            "title": "Ďáblův prsten",
+            "children": []
           },
           {
             "filename": "dabluv_prsten_006.md",
@@ -221,6 +223,6 @@
       "user": "books-are-next",
       "repo": "soucek-dabluv-prsten"
     },
-    "generatedAt": 1648803107363
+    "generatedAt": 1648803508797
   }
 }

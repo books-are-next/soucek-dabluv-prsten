@@ -517,7 +517,7 @@ Odpoledne jsem konečně znovu usedl k práci, ale do matematických tabulek se
 
 První byl adresován do Alžírska, Jirkovi Smolákovi. Pracuje tam jako geolog-naftař ve skupině našich odborníků. Nevěděl jsem sice ani přibližně, kde se zrovna potuluje (a Alžírsko je hodně veliké, skoro dvacetkrát větší než naše republika), doufal jsem však, že o něm náš konzul bude vědět. Napsal jsem asi tohle:
 
-> _Milý Jirko,_
+_Milý Jirko,_
 
 _vůbec jsem se nezbláznil ani jsem nepověsil hvězdářství na hřebíček, a přesto mne zajímá jeden zeměpisný detail. Dej pozor: někde jižně od Tademaitské vysočiny, možná v Tingheru, je uprostřed pouštní pahorkatiny kruhový útvar, uzavřený ze všech stran hradbou černých skal. Prý se lesknou jako mramor. Kotlina – ták nějak to tam vypadá – je několik kilometrů široká, dno má pokryté pískem. Nic víc nevím. A co horšího, nevím ani, co to chci vlastně vědět – zajímá mne všechno, co se týká této kotliny, zejména zda tam bylo nalezeno něco zajímavého nebo mimořádného. Nezlob se na mne a hodně brzy odepiš, ať už se něco dozvíš nebo ne._
 
@@ -527,7 +527,7 @@ _Ludvík_
 
 Druhý dopis putoval do slavného pařížského Muzea vzduchoplavby, a to rovnou k samotnému řediteli.
 
-> _Monsieur le directeur,_
+_Monsieur le directeur,_
 
 _prosím vás o obzvláštní laskavost. Byl bych Vám neobyčejně zavázán za sdělení odpovědi na tři otázky, pro něž bych jen stěží nalezl význačnějšího odborníka nežli Vás, slovutný pane řediteli._
 
@@ -543,7 +543,7 @@ _dr. Ludvík Souček_
 
 Třetí, poslední a nejstručnější dopis byl adresován asistentu Kadeřábkovi, mé pravé ruce a spolupracovníku.
 
-> _Milý Kadeřábku,_
+_Milý Kadeřábku,_
 
 _zjistěte, prosím Vás, zda nebylo pozorováno včera v noci nebo časně ráno na obloze něco mimořádného – neidentifikované těleso, zvlášť veliký meteor nebo podobně. Spojte se s hvězdárnami a s amatérskými kroužky. Máte u mne veliký polárkový dort._
 
@@ -573,7 +573,7 @@ Pokrčil smutně rameny, vysmrkal se a odešel.
 
 Shodou okolností mi hned druhý den přišel dopis z Paříže. Vrhl jsem se na něj jako čert na hříšnou duši. Stálo v něm doslova:
 
-> _Cher Monsieur,_
+_Cher Monsieur,_
 
 _je mi potěšením odpovědět Vám na otázky z Vašeho dopisu._
 
@@ -597,7 +597,7 @@ Vyskočil jsem od psacího stolu ke knihovně a vytáhl největší zeměpisný
 
 Na dopis od Jirky Smoláka jsem čekal velmi dlouho. Kaštany před oknem našeho ústavu už byly skoro docela holé a na zemi šustilo suché listí, když jsem se konečně dočkal.
 
-> _Milý Ludvo!_
+_Milý Ludvo!_
 
 _Tvůj dopis mě honil po celém Alžírsku. Napřed mne minul u Sot-el-Džeridu, pak mne nezastihl v Adraru, nedostal se ke mně v Akabli – ale nakonec měl přece jen štěstí. Dostihl mne v Tahoulahounu (to je jméno, co?) a co bys řekl, v místě, ležícím docela blízko krajiny, na kterou se vyptáváš!_
 
@@ -629,7 +629,7 @@ Položil mi na stůl článeček, vlastně jen sloupek vytržený ze špatně ti
 
 **LÉTAJÍCÍ TALÍŘE ZNOVU NA OBZORU?**
 
-> _Dne 4. července letošního roku bylo hlášeno několika vesničany na Státní hvězdárnu v Mohuči, že v časných hodinách ranních prolétl nad rýnským údolím ve směru Wiesbaden létající kotouč. Vesničané, vesměs hudebníci vracející se z taneční zábavy kolem čtvrté hodiny ranní, shodně potvrdili, že kotouč letěl bez jakéhokoli hluku, byl ocelově šedý a na obvodu blýskal několika světly. Velikost nedovedou odhadnout. Žádáme o další údaje od našich čtenářů, o nichž neopomeneme přinést zprávu v některém z nejbližších čísel. Sledujte náš časopis!_
+_Dne 4. července letošního roku bylo hlášeno několika vesničany na Státní hvězdárnu v Mohuči, že v časných hodinách ranních prolétl nad rýnským údolím ve směru Wiesbaden létající kotouč. Vesničané, vesměs hudebníci vracející se z taneční zábavy kolem čtvrté hodiny ranní, shodně potvrdili, že kotouč letěl bez jakéhokoli hluku, byl ocelově šedý a na obvodu blýskal několika světly. Velikost nedovedou odhadnout. Žádáme o další údaje od našich čtenářů, o nichž neopomeneme přinést zprávu v některém z nejbližších čísel. Sledujte náš časopis!_
 
 „No jo, sledujte náš časopis. To by se jim tak hodilo!“ bručel Kadeřábek, který mi četl přes rameno. „Že vám to stálo za to.“
 
