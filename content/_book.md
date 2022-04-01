@@ -11,6 +11,8 @@ meta:
   author: Ludvík Souček
   publisher: Městská knihovna v Praze
   modified: '2020-06-18T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - dabluv_prsten_002.html
   - dabluv_prsten_005.html
