@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - dabluv_prsten_002.html
+  - promo.html
   - dabluv_prsten_005.html
   - colophon.html
 tocBase:
