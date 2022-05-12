@@ -1,22 +1,28 @@
 {
-  "author": "Ludvík Souček",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "soucek-dabluv-prsten-032cac7",
-  "languagecode": "cs",
-  "modified": "2020-06-18T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Ďáblův prsten",
-  "revision": "032cac7",
+  "author": "Ludvík Souček",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "soucek-dabluv-prsten-5582058",
+  "revision": "5582058",
+  "readingOrder": [
+    "promo.html",
+    "dabluv_prsten_005.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 01 2022 08:59:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648803553173
+    "date": "Thu May 12 2022 10:41:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352100363
   },
   "documents": [
     {
-      "title": "Ďáblův prsten",
-      "file": "dabluv_prsten_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +30,7 @@
       "order": 0,
       "prev": null,
       "next": "dabluv_prsten_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Ďáblův prsten",
@@ -42,7 +40,7 @@
       "ideas": 362,
       "role": "chapter",
       "order": 1,
-      "prev": "dabluv_prsten_002.html",
+      "prev": "promo.html",
       "next": "colophon.html",
       "toc": [
         {
@@ -55,11 +53,11 @@
       ]
     },
     {
-      "title": "Tiráž • Ďáblův prsten",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 141,
-      "chars": 922,
-      "ideas": 21,
+      "words": 123,
+      "chars": 786,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "dabluv_prsten_005.html",
@@ -77,9 +75,9 @@
   ],
   "totals": {
     "all": {
-      "words": 14202,
-      "chars": 88521,
-      "ideas": 387
+      "words": 14184,
+      "chars": 88385,
+      "ideas": 382
     },
     "chapters": {
       "words": 14055,
