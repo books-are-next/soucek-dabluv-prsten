@@ -3,11 +3,7 @@ hiddenTitle: true
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Na černé obloze zářila dvě slunce. Stromy tu vypadaly jako rozsochaté televizní antény, zasazené do nekonečného močálu. Ležel jsem uprostřed tohoto podivného lesa za směrovou tryskou své rakety a čekal, odkud přijde útok. Mezi stromy občas blýskl kovově hladký krunýř obyvatelů planety. Blížili se. Sevřel jsem pevněji pažbu radio­metu, vtom mně však na rameno padlo těžké chapadlo. Myslím, že jsem zařval, docela určitě jsem se však v tom okamžiku – probudil.
 
@@ -509,7 +505,9 @@ Odpoledne jsem konečně znovu usedl k práci, ale do matematických tabulek se
 
 První byl adresován do Alžírska, Jirkovi Smolákovi. Pracuje tam jako geolog-naftař ve skupině našich odborníků. Nevěděl jsem sice ani přibližně, kde se zrovna potuluje (a Alžírsko je hodně veliké, skoro dvacetkrát větší než naše republika), doufal jsem však, že o něm náš konzul bude vědět. Napsal jsem asi tohle:
 
-  
+</section>
+
+<section>
 
 _Milý Jirko,_
 
@@ -521,7 +519,9 @@ _Ludvík_
 
 Druhý dopis putoval do slavného pařížského Muzea vzduchoplavby, a to rovnou k samotnému řediteli.
 
-  
+</section>
+
+<section>
 
 _Monsieur le directeur,_
 
@@ -539,7 +539,9 @@ _dr. Ludvík Souček_
 
 Třetí, poslední a nejstručnější dopis byl adresován asistentu Kadeřábkovi, mé pravé ruce a spolupracovníku.
 
-  
+</section>
+
+<section>
 
 _Milý Kadeřábku,_
 
@@ -571,7 +573,9 @@ Pokrčil smutně rameny, vysmrkal se a odešel.
 
 Shodou okolností mi hned druhý den přišel dopis z Paříže. Vrhl jsem se na něj jako čert na hříšnou duši. Stálo v něm doslova:
 
-  
+</section>
+
+<section>
 
 _Cher Monsieur,_
 
@@ -597,7 +601,9 @@ Vyskočil jsem od psacího stolu ke knihovně a vytáhl největší zeměpisný
 
 Na dopis od Jirky Smoláka jsem čekal velmi dlouho. Kaštany před oknem našeho ústavu už byly skoro docela holé a na zemi šustilo suché listí, když jsem se konečně dočkal.
 
-  
+</section>
+
+<section>
 
 _Milý Ludvo!_
 
@@ -627,17 +633,23 @@ Poslední dokument mi přinesl těsně před Vánocemi Kadeřábek, už dokonale
 
 Položil mi na stůl článeček, vlastně jen sloupek vytržený ze špatně tištěných novin. Drobným písmem tam bylo – samozřejmě německy – doslova:
 
-  
+</section>
+
+<section>
 
 **LÉTAJÍCÍ TALÍŘE ZNOVU NA OBZORU?**
 
 _Dne 4. července letošního roku bylo hlášeno několika vesničany na Státní hvězdárnu v Mohuči, že v časných hodinách ranních prolétl nad rýnským údolím ve směru Wiesbaden létající kotouč. Vesničané, vesměs hudebníci vracející se z taneční zábavy kolem čtvrté hodiny ranní, shodně potvrdili, že kotouč letěl bez jakéhokoli hluku, byl ocelově šedý a na obvodu blýskal několika světly. Velikost nedovedou odhadnout. Žádáme o další údaje od našich čtenářů, o nichž neopomeneme přinést zprávu v některém z nejbližších čísel. Sledujte náš časopis!_
 
-  
+</section>
+
+<section>
 
 „No jo, sledujte náš časopis. To by se jim tak hodilo!“ bručel Kadeřábek, který mi četl přes rameno. „Že vám to stálo za to.“
 
-  
+</section>
+
+<section>
 
 Venku poletoval sníh – rumejšilo, jak se tady, na Vysočině, hezky říká. Doktor Vrbka přečetl poslední řádky dopisů i výstřižků a zamyšleně si zapálil cigaretu.
 
@@ -741,7 +753,9 @@ Vrbka přikývl a obrátil hlavu ke dveřím, za nimiž cosi kutila jeho manže
 
 „Věro!“ zavolal, „Věruško! Připrav ještě nějaké šálky. Přijdou k nám hosté…!“
 
-  
+</section>
+
+<section>
 
 Čekal jsem dost dlouho. Neobjevily se ani novinové články s palcovými titulky, ani zvláštní vydání, ani rozhlasové pořady a tiskové konference. François zmizel jako kámen hozený do rybníka. A přece je jediným pozemšťanem, který navštívil planetu vzdáleného Slunce. Stal se vyslancem nás, lidí. Myslím, že to nebyl špatný vyslanec.
 
@@ -750,3 +764,5 @@ Teprve včera jsem od něho dostal lístek. Z Paříže. Byl psán plnicím per
 Desátník François Maret, voják Komuny…
 
 Ano, určitě se za ním podívám. Musíme společně vyprávět světu, že nejsme ve vesmíru sami a že se chvíle velkého setkání každý den blíží.
+
+</section>
