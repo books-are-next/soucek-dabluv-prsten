@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-dabluv-prsten-9d8bf73",
-  "revision": "9d8bf73",
+  "identifier": "soucek-dabluv-prsten-71d6a6c",
+  "revision": "71d6a6c",
   "readingOrder": [
     "promo.html",
     "dabluv_prsten_005.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:58:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157497783
+    "date": "Wed Jun 15 2022 05:56:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272615669
   },
   "documents": [
     {
@@ -55,8 +55,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 117,
-      "chars": 750,
+      "words": 131,
+      "chars": 857,
       "ideas": 15,
       "role": "colophon",
       "order": null,
@@ -75,8 +75,8 @@
   ],
   "totals": {
     "all": {
-      "words": 14178,
-      "chars": 88349,
+      "words": 14192,
+      "chars": 88456,
       "ideas": 381
     },
     "chapters": {
