@@ -16,7 +16,7 @@ meta:
 readingOrder:
   - promo.html
   - dabluv_prsten_005.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
