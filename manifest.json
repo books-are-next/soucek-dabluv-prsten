@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-dabluv-prsten-c59d970",
-  "revision": "c59d970",
+  "identifier": "soucek-dabluv-prsten-263bcf8",
+  "revision": "263bcf8",
   "readingOrder": [
     "promo.html",
     "dabluv_prsten_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:08:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151700590
+    "date": "Mon Oct 10 2022 16:00:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417613110
   },
   "documents": [
     {
@@ -56,7 +56,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 131,
-      "chars": 857,
+      "chars": 858,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -76,7 +76,7 @@
   "totals": {
     "all": {
       "words": 14192,
-      "chars": 88456,
+      "chars": 88457,
       "ideas": 381
     },
     "chapters": {
