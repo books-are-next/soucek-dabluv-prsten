@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-dabluv-prsten-263bcf8",
-  "revision": "263bcf8",
+  "identifier": "soucek-dabluv-prsten-88d2669",
+  "revision": "88d2669",
   "readingOrder": [
     "promo.html",
     "dabluv_prsten_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:00:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417613110
+    "date": "Fri Oct 21 2022 11:43:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352596296
   },
   "documents": [
     {
